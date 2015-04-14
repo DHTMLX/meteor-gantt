@@ -1,7 +1,7 @@
 dhtmlxGantt is an Gantt chart that helps you visualize a project schedule in a nice-looking chart.
 ================================
 
-Allows using [dhtmlxScheduler](http://dhtmlx.com/docs/products/dhtmlxScheduler) with [Meteor](https://meteor.com/).
+Allows using [dhtmlxGantt](http://dhtmlx.com/docs/products/dhtmlxGantt) with [Meteor](https://meteor.com/).
 
 How to use
 -----------
@@ -21,7 +21,7 @@ How to use
     ```
 
     ```js
-        gantt.init("gantt_here");
+	gantt.init("gantt_here");
     ```
 
 That is it.
