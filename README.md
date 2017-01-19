@@ -1,5 +1,7 @@
-dhtmlxGantt is an Gantt chart that helps you visualize a project schedule in a nice-looking chart.
-================================
+dhtmlxGantt
+===========
+
+dhtmlxGantt is an Gantt chart component that helps you visualize a project schedule in a nice-looking way.
 
 Allows using [dhtmlxGantt](http://dhtmlx.com/docs/products/dhtmlxGantt) with [Meteor](https://meteor.com/).
 
